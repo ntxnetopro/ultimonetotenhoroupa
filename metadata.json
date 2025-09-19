@@ -1,0 +1,7 @@
+{
+  "name": "Guarda-Roupa Virtual IA",
+  "description": "Catalogue seu guarda-roupa, crie looks e visualize-os em você com o poder da IA. Adicione fotos de suas peças, monte combinações e veja uma foto realista sua vestindo o look escolhido.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
